@@ -16,6 +16,7 @@ public class Employee {
     }
 
     public Employee(String name, String position) {
+        this();
         this.name = name;
         this.position = position;
     }
