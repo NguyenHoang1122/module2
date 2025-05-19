@@ -1,3 +1,5 @@
+package Shape;
+
 public class Shape {
     private String color = "green";
     private boolean filled = true;
@@ -33,3 +35,4 @@ public class Shape {
                 + (isFilled() ? "filled" : "not filled");
     }
 }
+
