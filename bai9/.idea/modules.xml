@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/absolute-number-calculator/absolute-number-calculator.iml" filepath="$PROJECT_DIR$/absolute-number-calculator/absolute-number-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bai9.iml" filepath="$PROJECT_DIR$/.idea/bai9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/next-day-calculator/next-day-calculator.iml" filepath="$PROJECT_DIR$/next-day-calculator/next-day-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phan-loai-tam-giac/phan-loai-tam-giac.iml" filepath="$PROJECT_DIR$/phan-loai-tam-giac/phan-loai-tam-giac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ung-dung-may-tinh-don-gian/ung-dung-may-tinh-don-gian.iml" filepath="$PROJECT_DIR$/ung-dung-may-tinh-don-gian/ung-dung-may-tinh-don-gian.iml" />
+    </modules>
+  </component>
+</project>
