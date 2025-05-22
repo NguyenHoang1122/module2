@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="200a9fdb-ef34-442d-84fa-a3f4f0870264" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/my-list/my-list/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-list/my-list/src/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-linked-list/my-linked-list.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai9/next-day-calculator/next-day-calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai9/next-day-calculator/next-day-calculator.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2xQoH2juNf5mbDn7Hbmk9LH17bc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "last_opened_file_path": "C:/codegym/module2/bai10",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.109" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.109" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="200a9fdb-ef34-442d-84fa-a3f4f0870264" name="Changes" comment="" />
+      <created>1747879566347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747879566347</updated>
+      <workItem from="1747879568007" duration="10000" />
+    </task>
+    <servers />
+  </component>
+</project>
