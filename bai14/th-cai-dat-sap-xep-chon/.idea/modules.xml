@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cai-dat-sap-xep-chon/cai-dat-sap-xep-chon.iml" filepath="$PROJECT_DIR$/cai-dat-sap-xep-chon/cai-dat-sap-xep-chon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minh-hoa-chen/minh-hoa-chen.iml" filepath="$PROJECT_DIR$/minh-hoa-chen/minh-hoa-chen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/th-cai-dat-sap-xep-chon.iml" filepath="$PROJECT_DIR$/.idea/th-cai-dat-sap-xep-chon.iml" />
+    </modules>
+  </component>
+</project>
