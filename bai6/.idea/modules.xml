@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bai6.iml" filepath="$PROJECT_DIR$/.idea/bai6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class-circle-class-cylinder/class-circle-class-cylinder.iml" filepath="$PROJECT_DIR$/class-circle-class-cylinder/class-circle-class-cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/he-cac-doi-tuong-hinh-hoc/he-cac-doi-tuong-hinh-hoc.iml" filepath="$PROJECT_DIR$/he-cac-doi-tuong-hinh-hoc/he-cac-doi-tuong-hinh-hoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/point-and-moveable-point/point-and-moveable-point.iml" filepath="$PROJECT_DIR$/point-and-moveable-point/point-and-moveable-point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/point2d-and-point3d/point2d-and-point3d.iml" filepath="$PROJECT_DIR$/point2d-and-point3d/point2d-and-point3d.iml" />
+    </modules>
+  </component>
+</project>
