@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bai11.iml" filepath="$PROJECT_DIR$/.idea/bai11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao-nguoc-so-nguyen-stack/dao-nguoc-so-nguyen-stack.iml" filepath="$PROJECT_DIR$/dao-nguoc-so-nguyen-stack/dao-nguoc-so-nguyen-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/th-queue-linkdlist/th-queue-linkdlist.iml" filepath="$PROJECT_DIR$/th-queue-linkdlist/th-queue-linkdlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/th-trien-khai-stack-linkedlist/th-trien-khai-stack-linkedlist.iml" filepath="$PROJECT_DIR$/th-trien-khai-stack-linkedlist/th-trien-khai-stack-linkedlist.iml" />
+    </modules>
+  </component>
+</project>
