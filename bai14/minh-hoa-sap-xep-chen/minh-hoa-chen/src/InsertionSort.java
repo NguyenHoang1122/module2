@@ -32,7 +32,7 @@ public class InsertionSort {
     }
     public static void printArray(int[] list) {
         for (int num : list) {
-            System.out.print(num + " ");
+            System.out.print(num + "\t");
         }
         System.out.println();
     }
