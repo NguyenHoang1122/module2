@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bai19.iml" filepath="$PROJECT_DIR$/.idea/bai19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowl-ds-bai-hat/crowl-ds-bai-hat.iml" filepath="$PROJECT_DIR$/crowl-ds-bai-hat/crowl-ds-bai-hat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validate-account/validate-account.iml" filepath="$PROJECT_DIR$/validate-account/validate-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validate-email/validate-email.iml" filepath="$PROJECT_DIR$/validate-email/validate-email.iml" />
+    </modules>
+  </component>
+</project>
