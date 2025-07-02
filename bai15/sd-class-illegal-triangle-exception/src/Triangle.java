@@ -6,7 +6,7 @@ public class Triangle {
     private final double c;
 
     public Triangle(double a, double b, double c) throws IllegalArgumentException {
-        if (a + b <= c || a + c <= b || b + c <= a) {
+        if (a + b <= c || a + c <= b || b + c <= a || a <= 0 || b <= 0 || c <= 0) {
             throw new IllegalArgumentException("Các cạnh không hợp lệ.");
         }
         this.a = a;
