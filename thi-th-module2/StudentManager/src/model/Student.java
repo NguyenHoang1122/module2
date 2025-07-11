@@ -64,4 +64,14 @@ public class Student {
     public void setClassID(String classID) {
         this.classID = classID;
     }
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", birthDate='" + birthDate + '\'' +
+                ", grender='" + gender + '\'' +
+                ", phoneNumber='" + phoneNumber + '\'' +
+                ", classID='" + classID + '\'' + "}";
+    }
 }

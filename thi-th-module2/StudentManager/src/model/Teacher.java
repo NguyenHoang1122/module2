@@ -54,4 +54,14 @@ public class Teacher {
     public void setPhone(String phone) {
         this.phone = phone;
     }
+
+    @Override
+    public String toString() {
+        return "Teacher{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", birthDate='" + birthDate + '\'' +
+                ", grender='" + gender + '\'' +
+                ", phone='" + phone + '\'' + "}";
+    }
 }

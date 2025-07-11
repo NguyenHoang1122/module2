@@ -34,4 +34,12 @@ public class Batch {
     public void setTeacherId(String teacherId) {
         this.teacherId = teacherId;
     }
+    @Override
+    public String toString() {
+        return "Batch{" +
+                "batchId='" + batchId + '\'' +
+                ", name='" + name + '\'' +
+                ", teacherId='" + teacherId + '\'' +
+                '}';
+    }
 }
